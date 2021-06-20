@@ -23,7 +23,7 @@ opencv-python==4.5.2.54
 packaging==20.9
 Pillow==8.2.0
 pipwin==0.5.1
-PyAudio @ file:///C:/Users/DELL/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+
 PyAutoGUI==0.9.52
 PyGetWindow==0.0.9
 pyjsparser==2.7.1
